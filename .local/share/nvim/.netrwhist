@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/aboueleyes/work/shahry'
+let g:netrw_dirhist_8='/home/aboueleyes/work/shahry/shahry/cards'
+let g:netrw_dirhist_7='/home/aboueleyes/work/shahry/shahry'
+let g:netrw_dirhist_6='/home/aboueleyes/work/shahry'
+let g:netrw_dirhist_5='/home/aboueleyes/work/shahry/requirements'
+let g:netrw_dirhist_4='/home/aboueleyes/work/shahry'
+let g:netrw_dirhist_3='/home/aboueleyes/work/shahry/shahry/cards'
+let g:netrw_dirhist_2='/home/aboueleyes/work/shahry/shahry'
+let g:netrw_dirhist_1='/home/aboueleyes/work/shahry'

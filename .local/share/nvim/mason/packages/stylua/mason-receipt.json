@@ -1,0 +1,1 @@
+{"secondary_sources":[],"schema_version":"1.1","name":"stylua","links":{"bin":{"stylua":"stylua"},"share":{},"opt":{}},"metrics":{"completion_time":1720791536777,"start_time":1720791532866},"primary_source":{"type":"registry+v1","id":"pkg:github\/johnnymorganz\/stylua@v0.20.0"}}

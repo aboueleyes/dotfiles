@@ -1,0 +1,1 @@
+{"secondary_sources":[],"schema_version":"1.1","name":"jedi-language-server","links":{"bin":{"jedi-language-server":"venv\/bin\/jedi-language-server"},"share":{},"opt":{}},"metrics":{"completion_time":1720791602630,"start_time":1720791592116},"primary_source":{"type":"registry+v1","id":"pkg:pypi\/jedi-language-server@0.41.4"}}
