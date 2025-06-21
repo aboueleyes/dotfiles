@@ -1,0 +1,2 @@
+hardstatus alwayslastline
+hardstatus string "%{= kG}[ %{G}%H %{g}][%= %{= kw}%?%-Lw%?%{= kR}[%n*%f %t]%?(%u)%?%{= kw}%?%+Lw%? %{g}][%{B}%Y-%m-%d %{W}%c %{g}] 
